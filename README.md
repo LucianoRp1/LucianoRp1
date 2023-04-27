@@ -7,7 +7,7 @@
 
 <h2>Redes de contacto</h2>
 
-<h3><a href='https://www.linkedin.com/in/luciano-rodriguez-766371228/' target='-blank'>Linkedin: /luciano-rodriguez</a></h3>
+<h3><a href='https://www.linkedin.com/in/luciano-rodriguez-766371228/' target='-blank'>Linkedin: /luciano-rodriguez</a></h3><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
  <h3><a href='mailto:rodriguezpepon5@gmail.com' target='-blank'>Gmail: rodriguezpepon5@gmail.com
 </a></h3>
 

@@ -1,6 +1,6 @@
-![alt-text](link)
+![alt-text](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/giphy.gif")
 
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+<!-- <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen> -->
 
 
 <h1>¡Hola! 👋🏼👋🏼</h1>

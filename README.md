@@ -1,4 +1,4 @@
-<code><img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk"></code>
+<code><img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="100%" height="auto"></code>
 
 
 <h1>¡Hola! 👋🏼👋🏼</h1>
